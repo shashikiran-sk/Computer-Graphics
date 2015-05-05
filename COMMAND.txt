@@ -1,0 +1,1 @@
+g++ -Wall -ofoo foo.c -lfreeglut -lglu32 -lopengl32
